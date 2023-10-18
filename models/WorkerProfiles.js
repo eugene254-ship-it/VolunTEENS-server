@@ -10,7 +10,7 @@ const WorkerProfilesSchema = new mongoose.Schema(
       required: true,
       enum: [
         "work permit",
-        "s pass",
+        "sNational identity",
         "employment pass",
         "permanent resident",
         "citizen",

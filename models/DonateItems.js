@@ -93,14 +93,14 @@ const DonateItemsSchema = new mongoose.Schema(
     status: {
       type: String,
       required: true,
-      // enum: [
-      //   "Approved",
-      //   "Rejected",
-      //   "Request Submitted",
-      //   "Pending Review",
-      //   "Pending Drop-Off",
-      //   "Completed",
-      // ],
+       enum: [
+       "Approved",
+         "Rejected",
+        "Request Submitted",
+         "Pending Review",
+        "Pending Drop-Off",
+         "Completed",
+       ],
     },
     icon: String,
   },

@@ -16,7 +16,7 @@ const {
 
 // ================= CRUD ====================//
 router.get("/:id", getSingleAccountRequest);
-// router.get("/:id", getOneDonationItem);
+router.get("/:id", getOneDonationItem);
 router.post("/create", createDonationItem);
 router.patch("/:id", updateDonation);
 router.delete("/:donate_id", deleteDonation);

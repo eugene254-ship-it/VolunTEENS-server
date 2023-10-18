@@ -12,4 +12,4 @@ const VolunteerApproval = mongoose.model(
 
 module.exports = VolunteerApproval;
 
-// module.exports = mongoose.model()
+module.exports = mongoose.model()

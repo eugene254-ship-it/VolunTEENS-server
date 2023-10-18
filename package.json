@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maybelline-ang/its-raining-raincoat-backend.git"
+    "url": "git+https://github.com/eugene254-ship-it/VolunTEENS-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maybelline-ang/its-raining-raincoat-backend/issues"
+    "url": "https://github.com/eugene254-ship-it/VolunTEENS-server/issues"
   },
-  "homepage": "https://github.com/maybelline-ang/its-raining-raincoat-backend#readme",
+  "homepage": "https://github.com/eugene254-ship-it/VolunTEENS-server#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
